@@ -1,0 +1,5 @@
+setup:
+http://javapapers.com/hibernate/hibernate-development-environment-with-eclipse-and-maven/
+http://stackoverflow.com/questions/18736594/location-of-hibernate-cfg-xml-in-project
+http://stackoverflow.com/questions/19319712/hibernate-classnotfoundexception-com-mysql-jdbc-driver
+http://stackoverflow.com/questions/6692882/hibernateerror-entity-class-not-found
